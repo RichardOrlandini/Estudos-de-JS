@@ -1,7 +1,10 @@
 /* Manipular DOM e alterar CSS */
-
 let titulo = document.querySelector('h1')
-titulo.textContent = 'Aula 09 Manipular CSS'
+
+titulo.textContent = 'XXX' //serve para acessar ou alterar conteudo de um elemento que foi selecionado
+titulo.innerHTML = '123'
+
+
 //titulo.innerHTML = 'Aula Manipular CSS'
 let imagem = document.querySelector('#foto')
 imagem.setAttribute('src', '../images/pride-fc.jpg')
