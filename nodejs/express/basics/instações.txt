@@ -1,0 +1,22 @@
+INSTALAÇÕES:
+
+
+Para instalar o express temo o seguinte comando:
+
+- npm install express --save
+
+
+
+
+
+
+PASSO A PASSO: 
+1. inicializar o express
+2.inicializar o servidor, rodando o express em uma porta.
+
+
+OBSERVAÇÕES:
+
+- como o express é um modulo do npm, basta colocarmos como require("express) que o programa entende.
+
+- função de callback, é uma função que executa após um evento acontecer.
